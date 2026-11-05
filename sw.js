@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mm-pro-v1';
+const CACHE_NAME = 'moviemaster-cache-v1';
 
 self.addEventListener('install', (e) => {
     self.skipWaiting();
